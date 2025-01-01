@@ -1,1 +1,2 @@
-# Jupiter-Volume-Checker
+# Jupiter Volume Checker
+Jupiter Airdrop
